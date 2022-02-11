@@ -5,7 +5,7 @@
   "author": "Caio Quirino",
   "homepage": "https://caioquirinomedeiros.github.io/smartbrain_web",
   "dependencies": {
-    "ajv": "^6.8.1",
+    "ajv": "^6.12.3",
     "axios": "^0.18.1",
     "dotenv": "^8.0.0",
     "gh-pages": "^2.0.1",
